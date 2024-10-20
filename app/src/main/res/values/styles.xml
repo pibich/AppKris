@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/mainbg</item>
+        <item name="colorPrimaryDark">@color/mainbg</item>
+        <item name="colorAccent">@color/mainbg</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="ShapeAppearance.Circular" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>
